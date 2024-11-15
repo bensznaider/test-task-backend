@@ -1,6 +1,6 @@
 ﻿# test-task-backend
 
-In order to start this backend server, clone this repo in the main folder of the project and then run "npm install" on the terminal to install the necessary dependencies. Create a .env file inside the repo root directory containing this environment variables:
+In order to start this backend server, clone this repo in the main folder of the project and then run "npm install" on the terminal to install the necessary dependencies. Create a .env file inside the repo root directory containing this environment variables:  
 ORIGIN="http://localhost:3000"  
 INFO_REQUEST_URL="https://date.nager.at/api/v3/CountryInfo"  
 FLAG_REQUEST_URL="https://countriesnow.space/api/v0.1/countries/flag/images"  
